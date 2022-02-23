@@ -1,2 +1,2 @@
 # Destination_Point
-Destination point App using svelte, bootstrap, firebase and google map technologies
+Destination point App using svelte,sveltekit, bootstrap, firebase and google maps
